@@ -9,7 +9,7 @@ apps that let users scan notes, homework, business cards, receipts, or anything 
 
 This is a fork of [WebsiteBeaver/capacitor-document-scanner](https://github.com/WebsiteBeaver/capacitor-document-scanner).
 
-**Reason for fork:** The original project is no longer maintained and doesn't support Capacitor 5, 6, or 7 in its peer dependencies. This fork has been updated to include support for Capacitor 5, 6, and 7, ensuring compatibility with modern Capacitor applications.
+**Reason for fork:** The original project is no longer maintained and doesn't support Capacitor 6, or 7 in its peer dependencies. This fork has been updated to include support for Capacitor 6, and 7, ensuring compatibility with modern Capacitor applications.
 
 | iOS                                                                                                                  | Android                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
