@@ -1,9 +1,15 @@
 # Capacitor Document Scanner
 
-[![Npm package version](https://img.shields.io/npm/v/capacitor-document-scanner/latest.svg?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/capacitor-document-scanner) [![npm peer dependency version](https://img.shields.io/npm/dependency-version/capacitor-document-scanner/peer/@capacitor/core?color=222d3a&logo=capacitor&style=for-the-badge)](https://github.com/WebsiteBeaver/capacitor-document-scanner/blob/master/package.json)
+[![Npm package version](https://img.shields.io/npm/v/@therealabdi27/capacitor-document-scanner-v2/latest.svg?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@therealabdi27/capacitor-document-scanner-v2)
 
 This is a Capacitor plugin that lets you scan documents using Android and iOS. You can use it to create
 apps that let users scan notes, homework, business cards, receipts, or anything with a rectangular shape.
+
+## Fork Information
+
+This is a fork of [WebsiteBeaver/capacitor-document-scanner](https://github.com/WebsiteBeaver/capacitor-document-scanner).
+
+**Reason for fork:** The original project is no longer maintained and doesn't support Capacitor 5, 6, or 7 in its peer dependencies. This fork has been updated to include support for Capacitor 5, 6, and 7, ensuring compatibility with modern Capacitor applications.
 
 | iOS                                                                                                                  | Android                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
