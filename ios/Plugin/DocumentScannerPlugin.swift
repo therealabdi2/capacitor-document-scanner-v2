@@ -5,7 +5,7 @@ import Capacitor
  * This class contains functions that get called when
  * you use the DocumentScanner JavaScript functions
  */
-@available(iOS 13.0, *)
+@available(iOS 14.0, *)
 @objc(DocumentScannerPlugin)
 public class DocumentScannerPlugin: CAPPlugin {
     
